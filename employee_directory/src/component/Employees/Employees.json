@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Jean-Luc Picard",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Patrick_Steward_as_Jean-Luc_Picard_in_1996%27s_Star_Trek_First_Contact.jpg/220px-Patrick_Steward_as_Jean-Luc_Picard_in_1996%27s_Star_Trek_First_Contact.jpg",
+    "rank": "Captain"
+  },
+  {
+    "id": 2,
+    "name": "William Riker",
+    "image": "https://vignette.wikia.nocookie.net/memoryalpha/images/2/29/William_Riker%2C_2364.jpg/revision/latest/scale-to-width-down/350?cb=20180906183158&path-prefix=en",
+    "rank": "Commander"
+  },
+  {
+    "id": 3,
+    "name": "Data",
+    "image": "https://vignette.wikia.nocookie.net/memoryalpha/images/1/13/Data%2C_2364.jpg/revision/latest/scale-to-width-down/350?cb=20180906184346&path-prefix=en",
+    "rank": "Lt Commander"
+  },
+  {
+    "id": 4,
+    "name": "Geordi La Forge",
+    "image": "https://vignette.wikia.nocookie.net/memoryalpha/images/3/3f/Geordi_La_Forge%2C_2364.jpg/revision/latest/scale-to-width-down/350?cb=20180907022900&path-prefix=en",
+    "rank": "Lt Commander"
+  },
+  {
+    "id": 5,
+    "name": "Worf Martok",
+    "image": "https://vignette.wikia.nocookie.net/memoryalpha/images/4/4b/Worf%2C_2379.jpg/revision/latest/scale-to-width-down/350?cb=20180907022953&path-prefix=en",
+    "rank": "Lieutenant"
+  },
+  {
+    "id": 6,
+    "name": "Deanna Troi",
+    "image": "https://vignette.wikia.nocookie.net/memoryalpha/images/7/7f/Deanna_Troi%2C_early_2364.jpg/revision/latest/scale-to-width-down/350?cb=20180906191940&path-prefix=en",
+    "rank": "Counselor"
+  },
+  {
+    "id": 7,
+    "name": "Beaverly Crusher",
+    "image": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/9e/Beverly_Crusher%2C_2364.jpg/revision/latest/scale-to-width-down/350?cb=20180906190246&path-prefix=en",
+    "rank": "Doctor"
+  },
+  {
+    "id": 8,
+    "name": "Wesley Crusher",
+    "image": "https://vignette.wikia.nocookie.net/memoryalpha/images/2/2a/Wesley_Crusher%2C_2364.jpg/revision/latest/scale-to-width-down/350?cb=20140811123631&path-prefix=en",
+    "rank": "Ensign"
+  },
+  {
+    "id": 9,
+    "name": "Guinan",
+    "image": "http://www.media4.hw-static.com/wp-content/uploads/star-trek-the-next-generation-guinan-whoopi-goldberg_55012346-1742x2560.jpeg",
+    "rank": "Bartender"
+  },
+  {
+    "id": 10,
+    "name": "Miles O'Brien",
+    "image": "https://th.bing.com/th/id/OIP.R9Bfh8LObz2hRLjRno9CogHaHx?pid=Api&rs=1",
+    "rank": "Transporter Chief"
+  }
+]
